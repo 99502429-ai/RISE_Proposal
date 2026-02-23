@@ -7,7 +7,7 @@ from datetime import datetime
 import time
 from urllib.error import HTTPError
 
-os.chdir('src')
+os.chdir('./src')
 
 def scrape_pol() -> None:
     chan.all_4chan_to_csv("pol", './data/raw')
