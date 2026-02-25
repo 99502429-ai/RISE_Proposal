@@ -1,0 +1,77 @@
+% Metadata
+\input metadata.tex
+\input xmp.tex
+
+
+\documentclass[12pt,a4paper]{report}
+\linespread{1.25}
+\setlength\textwidth{145mm}
+\setlength\textheight{247mm}
+\setlength\oddsidemargin{7.1mm}
+\setlength\evensidemargin{7.1mm}
+\setlength\topmargin{0mm}
+\setlength\headsep{0mm}
+\setlength\headheight{0mm}
+\let\openright=\clearpage
+
+\usepackage[a-2u]{pdfx}
+
+%% Prefer Latin Modern fonts
+\usepackage{lmodern}
+% If we are not using LuaTeX, we need to set up character encoding:
+\usepackage{iftex}
+\ifpdftex
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{textcomp}
+\fi
+
+% Clickable Links
+\hypersetup{unicode}
+\hypersetup{breaklinks=true}
+
+\usepackage[document]{ragged2e}
+\usepackage[nopatch=item]{microtype}   % micro-typographic refinement
+\usepackage{paralist}   
+\usepackage{graphicx} % Required for inserting images
+\usepackage{indentfirst}
+\usepackage{booktabs}
+\usepackage{subfiles}
+\usepackage{wrapfig}
+\usepackage{caption}
+\captionsetup[table]{position=bottom} 
+\usepackage{mathptmx}
+\renewcommand{\familydefault}{\rmdefault}
+
+
+\usepackage[notes,backend=biber]{biblatex-chicago}
+
+\addbibresource{bibliography.bib}
+
+
+\begin{document}
+
+\centering{\large\bf{\ProjectTitle}\\
+\normalfont{Author: \ProjectAuthor}}
+
+\raggedright
+
+\section*{\large{Introduction}}
+
+
+\section*{\large{Research Question}}
+
+
+
+\section*{\large{Data Collection}}
+
+
+
+\section*{\large{Data Analysis}}
+
+
+
+
+
+
+\end{document}
