@@ -2,7 +2,7 @@
 \input metadata.tex
 \input xmp.tex
 
-
+\RequirePackage{colorprofiles}
 \documentclass[12pt,a4paper]{report}
 \linespread{1.25}
 \setlength\textwidth{145mm}
@@ -26,52 +26,87 @@
 \usepackage{textcomp}
 \fi
 
+\usepackage{titlesec}
+
+\titleformat{\section}
+  {\normalfont\Large\bfseries\raggedright} % RaggedRight aligns left
+  {\thesection}{1em}{}
+\titleformat{\subsection}
+  {\normalfont\bfseries\raggedright}
+  {\thesubsection}{1em}{}
+\titlespacing{\subsection}{6pt}{6pt}{6pt}
+
 % Clickable Links
 \hypersetup{unicode}
 \hypersetup{breaklinks=true}
 
-\usepackage[document]{ragged2e}
-\usepackage[nopatch=item]{microtype}   % micro-typographic refinement
+%\usepackage[document]{ragged2e}
+\usepackage{microtype}   % micro-typographic refinement
 \usepackage{paralist}   
 \usepackage{graphicx} % Required for inserting images
 \usepackage{indentfirst}
 \usepackage{booktabs}
 \usepackage{subfiles}
 \usepackage{wrapfig}
+\usepackage{parskip}
 \usepackage{caption}
 \captionsetup[table]{position=bottom} 
 \usepackage{mathptmx}
 \renewcommand{\familydefault}{\rmdefault}
+\renewcommand{\footnotesize}{\small}
+\setlength{\parindent}{2em}
 
 
-\usepackage[notes,backend=biber]{biblatex-chicago}
+\usepackage[style=apa,backend=biber]{biblatex}
 
 \addbibresource{bibliography.bib}
 
 
 \begin{document}
+\begin{center}
+\large\bf{\ProjectTitle} \\
+\vspace{12pt}
+\normalfont{Author: \ProjectAuthor}
+\end{center}
 
-\centering{\large\bf{\ProjectTitle}\\
-\normalfont{Author: \ProjectAuthor}}
-
-\raggedright
 
 \section*{\large{Introduction}}
 
+The rise in extremist political sentiment has raised many questions throughout the social sciences, most importantly, \textit{how did this rise occur?} Despite the shift of far-right sentiment towards the mainstream through actors such as Donald Trump, Recep Tayyip Erdoğan, Viktor Orbán, and more, similar sentiment has continually grown in digital spaces for decades. The increased digitaization of the late-modern world has seen the propagation of various online forums and communities that often share a variety of extremist viewpoints, hate speech, and violent rhetoric. Various literature have highlighted the prevalance of hate speech and far-right rhetoric on platforms such as X (formerly Twitter), 4Chan, and Reddit \Parencites{waseem-hovy-2016-hateful}{davidson2017}{frenda2019}{mann2023}{bermudez-villalva2025}{petersen2025}, but the primary focus of this literature is identifying it rather than explaining how it came to be. Similarly, literature using ontological security frameworks has primarily focused on the broader rise of extremist and populist sentiment as a phenomenon \Parencites{kinnvall2004}{steele2019}{kinnvall2022}, but little mention has been given to the role of these online communites in this literature.
 
-\section*{\large{Research Question}}
+The aim of this project is addressing this gap in the literature by analyzing online communities through the framework of ontological security. This framework provides the the ability to understand the ``security of being'' \Parencite{giddens1986} and ``security of becoming,'' \Parencite{kinnvall2018} by understanding the identities, routines, and narratives that are found among individuals and communities. Through the application of qualitative discourse analysis and machine assisted content analysis on datasets from online communities such as 4Chan `/pol/', various subreddits, and X, this project will provide a greater understanding of the affect of online communities on the broader rise in extremist narratives, identities, and politics across the world.
 
+\section*{\large{Research Questions}}
 
+The existing literature has provided a grounded understanding in the application of ontological security on populist and extremist movements, but it has largely excluded mention of online communities. This project aims to address this gap through the following questions:
+
+\begin{description}
+    \item $RQ_1$: How do identities form among and between various online communities
+    \item $RQ_2$: What routines are formed and regularized within online communities
+    \item $RQ_3$: How do the narratives present in online communites reflect upon the broader rise in extremist rhetoric
+\end{description}
+
+\subsection*{RQ\textsubscript{1}:}
+
+Identity is a large factor in all ideologies, but particularly in extremist ideologies. Understanding the identities formed provides insight into the similarities and differences between communities, as well as nuances between different extremist ideologies.
+
+\subsection*{RQ\textsubscript{2}:}
+
+Routinization is crucial to ontological security, as it reduces uncertainty and creates a trust in an actor's environment \Parencite[p. 346]{mitzenOntologicalSecurityWorld2006}. Understanding the routines formed in online communities allows for further understanding of other discoursive elements present in online extremist rhetoric.
+
+\subsection*{RQ\textsubscript{3}:}
+
+Narratives across extremist discourse often share similarities, but understanding how narratives form and shift among online communities and political discourse provides insight regarding the recent rise in extremism.
 
 \section*{\large{Data Collection}}
 
-
+Data will be collected from a variety of online communities, such as 4Chan's `/pol/', Reddit's `r/Anarchism/' and `r/MensRights', and X using various methods depending on the source. The primary form of collection will utilize Application Programming Interfaces (APIs) when available. 4Chan maintains a full open source AIP and Reddit's API is open source for research, but other APIs such as X's API have fees according to use. Preliminary collection of 4Chan data has already yielded over 53,000 comments across 8,000 threads spanning from 07/02/2026 - 
 
 \section*{\large{Data Analysis}}
 
 
 
-
-
+\newpage
+\printbibliography
 
 \end{document}

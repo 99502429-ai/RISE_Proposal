@@ -62,7 +62,7 @@
   </rdf:Description> 
   <rdf:Description rdf:about="" xmlns:dc="http://purl.org/dc/elements/1.1/"> 
    <dc:format>application/pdf</dc:format> 
-   <dc:title><rdf:Alt><rdf:li xml:lang="x-default">{Securitizing Online Extremist Identity: An Analysis of Online Extremist Communities Through the Lens of Ontological Security}</rdf:li></rdf:Alt></dc:title>
+   <dc:title><rdf:Alt><rdf:li xml:lang="x-default">{Understanding Online Extremist Identities and Narratives: An Analysis of Online Extremist Communities Through the Lens of Ontological Security}</rdf:li></rdf:Alt></dc:title>
    <dc:creator><rdf:Seq><rdf:li>{Zachary Alan Stuck}</rdf:li></rdf:Seq></dc:creator>
    <dc:subject><rdf:Bag><rdf:li>{Extremism</rdf:li>
      <rdf:li>Radicalization</rdf:li>
@@ -79,15 +79,15 @@
   </rdf:Description> 
   <rdf:Description rdf:about="" xmlns:xmp="http://ns.adobe.com/xap/1.0/"> 
    <xmp:CreatorTool>LaTeX with hyperref</xmp:CreatorTool> 
-   <xmp:ModifyDate>2026-02-25T22:27:38+01:00</xmp:ModifyDate> 
-   <xmp:CreateDate>2026-02-25T22:27:38+01:00</xmp:CreateDate> 
-   <xmp:MetadataDate>2026-02-25T22:27:38+01:00</xmp:MetadataDate> 
+   <xmp:ModifyDate>2026-02-28T14:18:56+01:00</xmp:ModifyDate> 
+   <xmp:CreateDate>2026-02-28T14:18:56+01:00</xmp:CreateDate> 
+   <xmp:MetadataDate>2026-02-28T14:18:56+01:00</xmp:MetadataDate> 
   </rdf:Description> 
   <rdf:Description rdf:about="" xmlns:xmpRights = "http://ns.adobe.com/xap/1.0/rights/"> 
   </rdf:Description> 
   <rdf:Description rdf:about="" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"> 
    <xmpMM:DocumentID>uuid:FFECCEBC-11B9-7F7C-464A-365573752BD5</xmpMM:DocumentID> 
-   <xmpMM:InstanceID>uuid:9679C4F7-8D85-2897-6793-9F91451733AF</xmpMM:InstanceID> 
+   <xmpMM:InstanceID>uuid:D74A136F-C516-A790-761E-C028149D30F1</xmpMM:InstanceID> 
   </rdf:Description> 
  </rdf:RDF> 
 </x:xmpmeta> 
