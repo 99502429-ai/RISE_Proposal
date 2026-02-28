@@ -19,6 +19,56 @@
 
 \refsection{0}
   \datalist[entry]{apa/apasortcite//global/global/global}
+    \entry{antypas2023}{online}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=ce1a8f6a23809f920351458a0f4b5d0c}{%
+           family={Antypas},
+           familyi={A\bibinitperiod},
+           given={Dimosthenis},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5a2c6234f337c9ad9aa4745a4bfbb3ee}{%
+           family={Camacho-Collados},
+           familyi={C\bibinithyphendelim C\bibinitperiod},
+           given={Jose},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{fade6d7a8646e763c39cdd96a0fc1717}
+      \strng{fullhash}{fade6d7a8646e763c39cdd96a0fc1717}
+      \strng{fullhashraw}{fade6d7a8646e763c39cdd96a0fc1717}
+      \strng{bibnamehash}{fade6d7a8646e763c39cdd96a0fc1717}
+      \strng{authorbibnamehash}{fade6d7a8646e763c39cdd96a0fc1717}
+      \strng{authornamehash}{fade6d7a8646e763c39cdd96a0fc1717}
+      \strng{authorfullhash}{fade6d7a8646e763c39cdd96a0fc1717}
+      \strng{authorfullhashraw}{fade6d7a8646e763c39cdd96a0fc1717}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{The automatic detection of hate speech online is an active research area in NLP. Most of the studies to date are based on social media datasets that contribute to the creation of hate speech detection models trained on them. However, data creation processes contain their own biases, and models inherently learn from these dataset-specific biases. In this paper, we perform a large-scale cross-dataset comparison where we fine-tune language models on different hate speech detection datasets. This analysis shows how some datasets are more generalisable than others when used as training data. Crucially, our experiments show how combining hate speech detection datasets can contribute to the development of robust hate speech detection models. This robustness holds even when controlling by data size and compared with the best individual datasets.}
+      \field{day}{4}
+      \field{eprintclass}{cs}
+      \field{eprinttype}{arXiv}
+      \field{month}{7}
+      \field{shorttitle}{Robust {{Hate Speech Detection}} in {{Social Media}}}
+      \field{title}{Robust {{Hate Speech Detection}} in {{Social Media}}: {{A Cross-Dataset Empirical Evaluation}}}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \verb{doi}
+      \verb 10.48550/arXiv.2307.01680
+      \endverb
+      \verb{eprint}
+      \verb 2307.01680
+      \endverb
+      \verb{file}
+      \verb /Users/zacharystuck/Zotero/storage/9ZBNAG93/Antypas and Camacho-Collados-2023-Robust Hate Speech Detection in Social Media A Cross-Dataset Empirical Evaluation.pdf;/Users/zacharystuck/Zotero/storage/B5DD9CC6/2307.html
+      \endverb
+      \keyw{Computer Science - Computation and Language}
+    \endentry
     \entry{bermudez-villalva2025}{article}{}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=3dbdb682eaf17360305932316a574f59}{%
@@ -69,6 +119,120 @@
       \verb{doi}
       \verb 10.1109/TTS.2025.3549931
       \endverb
+    \endentry
+    \entry{boyatzis1998}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=2c535cad89a56c05ff55037c688d0943}{%
+           family={Boyatzis},
+           familyi={B\bibinitperiod},
+           given={Richard},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Thousand Oaks}%
+      }
+      \list{publisher}{1}{%
+        {Sage Publications Inc}%
+      }
+      \strng{namehash}{2c535cad89a56c05ff55037c688d0943}
+      \strng{fullhash}{2c535cad89a56c05ff55037c688d0943}
+      \strng{fullhashraw}{2c535cad89a56c05ff55037c688d0943}
+      \strng{bibnamehash}{2c535cad89a56c05ff55037c688d0943}
+      \strng{authorbibnamehash}{2c535cad89a56c05ff55037c688d0943}
+      \strng{authornamehash}{2c535cad89a56c05ff55037c688d0943}
+      \strng{authorfullhash}{2c535cad89a56c05ff55037c688d0943}
+      \strng{authorfullhashraw}{2c535cad89a56c05ff55037c688d0943}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Transforming Qualitative Information: {{Thematic}} Analysis and Code Development}
+      \field{year}{1998}
+      \field{dateera}{ce}
+    \endentry
+    \entry{camacho-collados-etal-2022-tweetnlp}{article}{}{}
+      \name{author}{10}{}{%
+        {{un=0,uniquepart=base,hash=9e89e8aee4214a80b57bc9bf8a273c69}{%
+           family={Camacho-collados},
+           familyi={C\bibinithyphendelim c\bibinitperiod},
+           given={Jose},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e44da7f1f23a82224cda055f823c6207}{%
+           family={Rezaee},
+           familyi={R\bibinitperiod},
+           given={Kiamehr},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e0cd61fd0be87f9fded80fd6cb6ca079}{%
+           family={Riahi},
+           familyi={R\bibinitperiod},
+           given={Talayeh},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c60851bd09258a040f5b4399fa216495}{%
+           family={Ushio},
+           familyi={U\bibinitperiod},
+           given={Asahi},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4c247ca09eac6a9145d254f8f65eb4c6}{%
+           family={Loureiro},
+           familyi={L\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ce1a8f6a23809f920351458a0f4b5d0c}{%
+           family={Antypas},
+           familyi={A\bibinitperiod},
+           given={Dimosthenis},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6a5e6fd1d646d7d63852d624c8f414d1}{%
+           family={Boisson},
+           familyi={B\bibinitperiod},
+           given={Joanne},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f6e179e8b9bcb004c549ae195861cad8}{%
+           family={Espinosa\bibnamedelima Anke},
+           familyi={E\bibinitperiod\bibinitdelim A\bibinitperiod},
+           given={Luis},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=653e326d5d6c25927f0043db9259836f}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Fangyu},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=eeff67e72bc9044db36be505e63a95b9}{%
+           family={Martinez\bibnamedelima Cámara},
+           familyi={M\bibinitperiod\bibinitdelim C\bibinitperiod},
+           given={Eugenio},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{7e6d2092471a2ad34f75a92e0440ae3a}
+      \strng{fullhash}{a4a3c92dc932fcf48c588710e845041a}
+      \strng{fullhashraw}{a4a3c92dc932fcf48c588710e845041a}
+      \strng{bibnamehash}{a4a3c92dc932fcf48c588710e845041a}
+      \strng{authorbibnamehash}{a4a3c92dc932fcf48c588710e845041a}
+      \strng{authornamehash}{7e6d2092471a2ad34f75a92e0440ae3a}
+      \strng{authorfullhash}{a4a3c92dc932fcf48c588710e845041a}
+      \strng{authorfullhashraw}{a4a3c92dc932fcf48c588710e845041a}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labeldatesource}{nodate}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{{TweetNLP}}: {{Cutting-edge}} Natural Language Processing for Social Media}
+      \keyw{notion}
     \endentry
     \entry{davidson2017}{article}{}{}
       \name{author}{4}{}{%
@@ -232,6 +396,39 @@
       \field{year}{1986}
       \field{dateera}{ce}
     \endentry
+    \entry{grootendorst2022bertopic}{unpublished}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a07dee61406b9c48310bff46188c983b}{%
+           family={Grootendorst},
+           familyi={G\bibinitperiod},
+           given={Maarten},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a07dee61406b9c48310bff46188c983b}
+      \strng{fullhash}{a07dee61406b9c48310bff46188c983b}
+      \strng{fullhashraw}{a07dee61406b9c48310bff46188c983b}
+      \strng{bibnamehash}{a07dee61406b9c48310bff46188c983b}
+      \strng{authorbibnamehash}{a07dee61406b9c48310bff46188c983b}
+      \strng{authornamehash}{a07dee61406b9c48310bff46188c983b}
+      \strng{authorfullhash}{a07dee61406b9c48310bff46188c983b}
+      \strng{authorfullhashraw}{a07dee61406b9c48310bff46188c983b}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprinttype}{arXiv}
+      \field{title}{{{BERTopic}}: {{Neural}} Topic Modeling with a Class-Based {{TF-IDF}} Procedure}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \verb{eprint}
+      \verb 2203.05794
+      \endverb
+      \keyw{notion}
+    \endentry
     \entry{kinnvall2004}{article}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=892708e757e224f25f01b3e749d9f16b}{%
@@ -368,6 +565,144 @@
       \verb{file}
       \verb /Users/zacharystuck/Zotero/storage/BAZTSXKP/Kinnvall and Svensson-2022-Exploring the populist ‘mind’ Anxiety, fantasy, and everyday populism.pdf
       \endverb
+    \endentry
+    \entry{laurer2024}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=14e5e461cb33210af27ec280a1c93bd6}{%
+           family={Laurer},
+           familyi={L\bibinitperiod},
+           given={Moritz},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4662b30c5fb175df143562e6c317e4fa}{%
+           family={Van\bibnamedelima Atteveldt},
+           familyi={V\bibinitperiod\bibinitdelim A\bibinitperiod},
+           given={Wouter},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d7a6771bb61bc763e5c7dc56a309cb3e}{%
+           family={Casas},
+           familyi={C\bibinitperiod},
+           given={Andreu},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a100a2d72bd46bb0dfcdd3b37bd9bcd8}{%
+           family={Welbers},
+           familyi={W\bibinitperiod},
+           given={Kasper},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{7f94bb40791defc252ea4122f59afcb2}
+      \strng{fullhash}{5162914a64d14bf71b21211294e259f4}
+      \strng{fullhashraw}{5162914a64d14bf71b21211294e259f4}
+      \strng{bibnamehash}{5162914a64d14bf71b21211294e259f4}
+      \strng{authorbibnamehash}{5162914a64d14bf71b21211294e259f4}
+      \strng{authornamehash}{7f94bb40791defc252ea4122f59afcb2}
+      \strng{authorfullhash}{5162914a64d14bf71b21211294e259f4}
+      \strng{authorfullhashraw}{5162914a64d14bf71b21211294e259f4}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Supervised machine learning is an increasingly popular tool for analyzing large political text corpora. The main disadvantage of supervised machine learning is the need for thousands of manually annotated training data points. This issue is particularly important in the social sciences where most new research questions require new training data for a new task tailored to the specific research question. This paper analyses how deep transfer learning can help address this challenge by accumulating “prior knowledge” in language models. Models like BERT can learn statistical language patterns through pre-training (“language knowledge”), and reliance on task-specific data can be reduced by training on universal tasks like natural language inference (NLI; “task knowledge”). We demonstrate the benefits of transfer learning on a wide range of eight tasks. Across these eight tasks, our BERT-NLI model fine-tuned on 100 to 2,500 texts performs on average 10.7 to 18.3 percentage points better than classical models without transfer learning. Our study indicates that BERT-NLI fine-tuned on 500 texts achieves similar performance as classical models trained on around 5,000 texts. Moreover, we show that transfer learning works particularly well on imbalanced data. We conclude by discussing limitations of transfer learning and by outlining new opportunities for political science research.}
+      \field{issn}{1047-1987, 1476-4989}
+      \field{journaltitle}{Political Analysis}
+      \field{langid}{english}
+      \field{month}{1}
+      \field{number}{1}
+      \field{shortjournal}{Polit. Anal.}
+      \field{shorttitle}{Less {{Annotating}}, {{More Classifying}}}
+      \field{title}{Less {{Annotating}}, {{More Classifying}}: {{Addressing}} the {{Data Scarcity Issue}} of {{Supervised Machine Learning}} with {{Deep Transfer Learning}} and {{BERT-NLI}}}
+      \field{volume}{32}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \field{pages}{84\bibrangedash 100}
+      \range{pages}{17}
+      \verb{doi}
+      \verb 10.1017/pan.2023.20
+      \endverb
+      \verb{file}
+      \verb /Users/zacharystuck/Zotero/storage/2VSI7FAT/Laurer et al. - 2024 - Less Annotating, More Classifying Addressing the Data Scarcity Issue of Supervised Machine Learning.pdf
+      \endverb
+      \keyw{notion}
+    \endentry
+    \entry{lucas2015}{article}{}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=3995dda0933bb03d997dfe71bb50dea0}{%
+           family={Lucas},
+           familyi={L\bibinitperiod},
+           given={Christopher},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1475878b928af274b895482136430b10}{%
+           family={Nielsen},
+           familyi={N\bibinitperiod},
+           given={Richard\bibnamedelima A.},
+           giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ca08ae29f1298af10aa6e11f92b01aae}{%
+           family={Roberts},
+           familyi={R\bibinitperiod},
+           given={Margaret\bibnamedelima E.},
+           giveni={M\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f1370510cfe223ff4c2c652b160014ba}{%
+           family={Stewart},
+           familyi={S\bibinitperiod},
+           given={Brandon\bibnamedelima M.},
+           giveni={B\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=26be0ac5856b0deff25169b1bae4947c}{%
+           family={Storer},
+           familyi={S\bibinitperiod},
+           given={Alex},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0e9a50476b4db979d3b603e83a05e919}{%
+           family={Tingley},
+           familyi={T\bibinitperiod},
+           given={Dustin},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{45fafb44ed555b359ac8fbe6feda2465}
+      \strng{fullhash}{5e0eb8fd952011a6810062bb90a3dab3}
+      \strng{fullhashraw}{5e0eb8fd952011a6810062bb90a3dab3}
+      \strng{bibnamehash}{5e0eb8fd952011a6810062bb90a3dab3}
+      \strng{authorbibnamehash}{5e0eb8fd952011a6810062bb90a3dab3}
+      \strng{authornamehash}{45fafb44ed555b359ac8fbe6feda2465}
+      \strng{authorfullhash}{5e0eb8fd952011a6810062bb90a3dab3}
+      \strng{authorfullhashraw}{5e0eb8fd952011a6810062bb90a3dab3}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Recent advances in research tools for the systematic analysis of textual data are enabling exciting new research throughout the social sciences. For comparative politics, scholars who are often interested in non-English and possibly multilingual textual datasets, these advances may be difficult to access. This article discusses practical issues that arise in the processing, management, translation, and analysis of textual data with a particular focus on how procedures differ across languages. These procedures are combined in two applied examples of automated text analysis using the recently introduced Structural Topic Model. We also show how the model can be used to analyze data that have been translated into a single language via machine translation tools. All the methods we describe here are implemented in open-source software packages available from the authors.}
+      \field{issn}{1047-1987, 1476-4989}
+      \field{journaltitle}{Political Analysis}
+      \field{langid}{english}
+      \field{number}{2}
+      \field{shortjournal}{Polit. anal.}
+      \field{title}{Computer-{{Assisted Text Analysis}} for {{Comparative Politics}}}
+      \field{volume}{23}
+      \field{year}{2015}
+      \field{dateera}{ce}
+      \field{pages}{254\bibrangedash 277}
+      \range{pages}{24}
+      \verb{doi}
+      \verb 10.1093/pan/mpu019
+      \endverb
+      \verb{file}
+      \verb /Users/zacharystuck/Zotero/storage/UXDVLP8V/Lucas et al. - 2015 - Computer-Assisted Text Analysis for Comparative Politics.pdf
+      \endverb
+      \keyw{notion}
     \endentry
     \entry{mann2023}{article}{}{}
       \name{author}{5}{}{%
@@ -578,6 +913,47 @@
       \endverb
       \verb{file}
       \verb /Users/zacharystuck/Zotero/storage/HZUFUE2E/Steele and Homolar-2019-Ontological insecurities and the politics of contemporary populism.pdf
+      \endverb
+    \endentry
+    \entry{vandijk1993a}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=64d58f8969886541c304396463525920}{%
+           family={Van\bibnamedelima Dijk},
+           familyi={V\bibinitperiod\bibinitdelim D\bibinitperiod},
+           given={Teun\bibnamedelima A.},
+           giveni={T\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{64d58f8969886541c304396463525920}
+      \strng{fullhash}{64d58f8969886541c304396463525920}
+      \strng{fullhashraw}{64d58f8969886541c304396463525920}
+      \strng{bibnamehash}{64d58f8969886541c304396463525920}
+      \strng{authorbibnamehash}{64d58f8969886541c304396463525920}
+      \strng{authornamehash}{64d58f8969886541c304396463525920}
+      \strng{authorfullhash}{64d58f8969886541c304396463525920}
+      \strng{authorfullhashraw}{64d58f8969886541c304396463525920}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This paper discusses some principles of critical discourse analysis, such as the explicit sociopolitical stance of discourse analysts, and a focus on dominance relations by elite groups and institutions as they are being enacted, legitimated or otherwise reproduced by text and talk. One of the crucial elements of this analysis of the relations between power and discourse is the patterns of access to (public) discourse for different social groups. Theoretically it is shown that in order to be able to relate power and discourse in an explicit way, we need the `cognitive interface' of models, knowledge, attitudes and ideologies and other social representations of the social mind, which also relate the individual and the social, and the micro- and the macro-levels of social structure. Finally, the argument is illustrated with an analysis of parliamentary debates about ethnic affairs.}
+      \field{issn}{0957-9265, 1460-3624}
+      \field{journaltitle}{Discourse \& Society}
+      \field{langid}{english}
+      \field{month}{4}
+      \field{number}{2}
+      \field{shortjournal}{Discourse \& Society}
+      \field{title}{Principles of {{Critical Discourse Analysis}}}
+      \field{volume}{4}
+      \field{year}{1993}
+      \field{dateera}{ce}
+      \field{pages}{249\bibrangedash 283}
+      \range{pages}{35}
+      \verb{doi}
+      \verb 10.1177/0957926593004002006
       \endverb
     \endentry
     \entry{waseem-hovy-2016-hateful}{inbook}{}{}
@@ -650,6 +1026,56 @@
     \endentry
   \enddatalist
   \datalist[entry]{apa/global//global/global/global}
+    \entry{antypas2023}{online}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=ce1a8f6a23809f920351458a0f4b5d0c}{%
+           family={Antypas},
+           familyi={A\bibinitperiod},
+           given={Dimosthenis},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5a2c6234f337c9ad9aa4745a4bfbb3ee}{%
+           family={Camacho-Collados},
+           familyi={C\bibinithyphendelim C\bibinitperiod},
+           given={Jose},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{fade6d7a8646e763c39cdd96a0fc1717}
+      \strng{fullhash}{fade6d7a8646e763c39cdd96a0fc1717}
+      \strng{fullhashraw}{fade6d7a8646e763c39cdd96a0fc1717}
+      \strng{bibnamehash}{fade6d7a8646e763c39cdd96a0fc1717}
+      \strng{authorbibnamehash}{fade6d7a8646e763c39cdd96a0fc1717}
+      \strng{authornamehash}{fade6d7a8646e763c39cdd96a0fc1717}
+      \strng{authorfullhash}{fade6d7a8646e763c39cdd96a0fc1717}
+      \strng{authorfullhashraw}{fade6d7a8646e763c39cdd96a0fc1717}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{The automatic detection of hate speech online is an active research area in NLP. Most of the studies to date are based on social media datasets that contribute to the creation of hate speech detection models trained on them. However, data creation processes contain their own biases, and models inherently learn from these dataset-specific biases. In this paper, we perform a large-scale cross-dataset comparison where we fine-tune language models on different hate speech detection datasets. This analysis shows how some datasets are more generalisable than others when used as training data. Crucially, our experiments show how combining hate speech detection datasets can contribute to the development of robust hate speech detection models. This robustness holds even when controlling by data size and compared with the best individual datasets.}
+      \field{day}{4}
+      \field{eprintclass}{cs}
+      \field{eprinttype}{arXiv}
+      \field{month}{7}
+      \field{shorttitle}{Robust {{Hate Speech Detection}} in {{Social Media}}}
+      \field{title}{Robust {{Hate Speech Detection}} in {{Social Media}}: {{A Cross-Dataset Empirical Evaluation}}}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \verb{doi}
+      \verb 10.48550/arXiv.2307.01680
+      \endverb
+      \verb{eprint}
+      \verb 2307.01680
+      \endverb
+      \verb{file}
+      \verb /Users/zacharystuck/Zotero/storage/9ZBNAG93/Antypas and Camacho-Collados-2023-Robust Hate Speech Detection in Social Media A Cross-Dataset Empirical Evaluation.pdf;/Users/zacharystuck/Zotero/storage/B5DD9CC6/2307.html
+      \endverb
+      \keyw{Computer Science - Computation and Language}
+    \endentry
     \entry{bermudez-villalva2025}{article}{}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=3dbdb682eaf17360305932316a574f59}{%
@@ -700,6 +1126,120 @@
       \verb{doi}
       \verb 10.1109/TTS.2025.3549931
       \endverb
+    \endentry
+    \entry{boyatzis1998}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=2c535cad89a56c05ff55037c688d0943}{%
+           family={Boyatzis},
+           familyi={B\bibinitperiod},
+           given={Richard},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Thousand Oaks}%
+      }
+      \list{publisher}{1}{%
+        {Sage Publications Inc}%
+      }
+      \strng{namehash}{2c535cad89a56c05ff55037c688d0943}
+      \strng{fullhash}{2c535cad89a56c05ff55037c688d0943}
+      \strng{fullhashraw}{2c535cad89a56c05ff55037c688d0943}
+      \strng{bibnamehash}{2c535cad89a56c05ff55037c688d0943}
+      \strng{authorbibnamehash}{2c535cad89a56c05ff55037c688d0943}
+      \strng{authornamehash}{2c535cad89a56c05ff55037c688d0943}
+      \strng{authorfullhash}{2c535cad89a56c05ff55037c688d0943}
+      \strng{authorfullhashraw}{2c535cad89a56c05ff55037c688d0943}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Transforming Qualitative Information: {{Thematic}} Analysis and Code Development}
+      \field{year}{1998}
+      \field{dateera}{ce}
+    \endentry
+    \entry{camacho-collados-etal-2022-tweetnlp}{article}{}{}
+      \name{author}{10}{}{%
+        {{un=0,uniquepart=base,hash=9e89e8aee4214a80b57bc9bf8a273c69}{%
+           family={Camacho-collados},
+           familyi={C\bibinithyphendelim c\bibinitperiod},
+           given={Jose},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e44da7f1f23a82224cda055f823c6207}{%
+           family={Rezaee},
+           familyi={R\bibinitperiod},
+           given={Kiamehr},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e0cd61fd0be87f9fded80fd6cb6ca079}{%
+           family={Riahi},
+           familyi={R\bibinitperiod},
+           given={Talayeh},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c60851bd09258a040f5b4399fa216495}{%
+           family={Ushio},
+           familyi={U\bibinitperiod},
+           given={Asahi},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4c247ca09eac6a9145d254f8f65eb4c6}{%
+           family={Loureiro},
+           familyi={L\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ce1a8f6a23809f920351458a0f4b5d0c}{%
+           family={Antypas},
+           familyi={A\bibinitperiod},
+           given={Dimosthenis},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6a5e6fd1d646d7d63852d624c8f414d1}{%
+           family={Boisson},
+           familyi={B\bibinitperiod},
+           given={Joanne},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f6e179e8b9bcb004c549ae195861cad8}{%
+           family={Espinosa\bibnamedelima Anke},
+           familyi={E\bibinitperiod\bibinitdelim A\bibinitperiod},
+           given={Luis},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=653e326d5d6c25927f0043db9259836f}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Fangyu},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=eeff67e72bc9044db36be505e63a95b9}{%
+           family={Martinez\bibnamedelima Cámara},
+           familyi={M\bibinitperiod\bibinitdelim C\bibinitperiod},
+           given={Eugenio},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{7e6d2092471a2ad34f75a92e0440ae3a}
+      \strng{fullhash}{a4a3c92dc932fcf48c588710e845041a}
+      \strng{fullhashraw}{a4a3c92dc932fcf48c588710e845041a}
+      \strng{bibnamehash}{a4a3c92dc932fcf48c588710e845041a}
+      \strng{authorbibnamehash}{a4a3c92dc932fcf48c588710e845041a}
+      \strng{authornamehash}{7e6d2092471a2ad34f75a92e0440ae3a}
+      \strng{authorfullhash}{a4a3c92dc932fcf48c588710e845041a}
+      \strng{authorfullhashraw}{a4a3c92dc932fcf48c588710e845041a}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labeldatesource}{nodate}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{{TweetNLP}}: {{Cutting-edge}} Natural Language Processing for Social Media}
+      \keyw{notion}
     \endentry
     \entry{davidson2017}{article}{}{}
       \name{author}{4}{}{%
@@ -863,6 +1403,39 @@
       \field{year}{1986}
       \field{dateera}{ce}
     \endentry
+    \entry{grootendorst2022bertopic}{unpublished}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a07dee61406b9c48310bff46188c983b}{%
+           family={Grootendorst},
+           familyi={G\bibinitperiod},
+           given={Maarten},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a07dee61406b9c48310bff46188c983b}
+      \strng{fullhash}{a07dee61406b9c48310bff46188c983b}
+      \strng{fullhashraw}{a07dee61406b9c48310bff46188c983b}
+      \strng{bibnamehash}{a07dee61406b9c48310bff46188c983b}
+      \strng{authorbibnamehash}{a07dee61406b9c48310bff46188c983b}
+      \strng{authornamehash}{a07dee61406b9c48310bff46188c983b}
+      \strng{authorfullhash}{a07dee61406b9c48310bff46188c983b}
+      \strng{authorfullhashraw}{a07dee61406b9c48310bff46188c983b}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprinttype}{arXiv}
+      \field{title}{{{BERTopic}}: {{Neural}} Topic Modeling with a Class-Based {{TF-IDF}} Procedure}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \verb{eprint}
+      \verb 2203.05794
+      \endverb
+      \keyw{notion}
+    \endentry
     \entry{kinnvall2004}{article}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=892708e757e224f25f01b3e749d9f16b}{%
@@ -999,6 +1572,144 @@
       \verb{file}
       \verb /Users/zacharystuck/Zotero/storage/BAZTSXKP/Kinnvall and Svensson-2022-Exploring the populist ‘mind’ Anxiety, fantasy, and everyday populism.pdf
       \endverb
+    \endentry
+    \entry{laurer2024}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=14e5e461cb33210af27ec280a1c93bd6}{%
+           family={Laurer},
+           familyi={L\bibinitperiod},
+           given={Moritz},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4662b30c5fb175df143562e6c317e4fa}{%
+           family={Van\bibnamedelima Atteveldt},
+           familyi={V\bibinitperiod\bibinitdelim A\bibinitperiod},
+           given={Wouter},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d7a6771bb61bc763e5c7dc56a309cb3e}{%
+           family={Casas},
+           familyi={C\bibinitperiod},
+           given={Andreu},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a100a2d72bd46bb0dfcdd3b37bd9bcd8}{%
+           family={Welbers},
+           familyi={W\bibinitperiod},
+           given={Kasper},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{7f94bb40791defc252ea4122f59afcb2}
+      \strng{fullhash}{5162914a64d14bf71b21211294e259f4}
+      \strng{fullhashraw}{5162914a64d14bf71b21211294e259f4}
+      \strng{bibnamehash}{5162914a64d14bf71b21211294e259f4}
+      \strng{authorbibnamehash}{5162914a64d14bf71b21211294e259f4}
+      \strng{authornamehash}{7f94bb40791defc252ea4122f59afcb2}
+      \strng{authorfullhash}{5162914a64d14bf71b21211294e259f4}
+      \strng{authorfullhashraw}{5162914a64d14bf71b21211294e259f4}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Supervised machine learning is an increasingly popular tool for analyzing large political text corpora. The main disadvantage of supervised machine learning is the need for thousands of manually annotated training data points. This issue is particularly important in the social sciences where most new research questions require new training data for a new task tailored to the specific research question. This paper analyses how deep transfer learning can help address this challenge by accumulating “prior knowledge” in language models. Models like BERT can learn statistical language patterns through pre-training (“language knowledge”), and reliance on task-specific data can be reduced by training on universal tasks like natural language inference (NLI; “task knowledge”). We demonstrate the benefits of transfer learning on a wide range of eight tasks. Across these eight tasks, our BERT-NLI model fine-tuned on 100 to 2,500 texts performs on average 10.7 to 18.3 percentage points better than classical models without transfer learning. Our study indicates that BERT-NLI fine-tuned on 500 texts achieves similar performance as classical models trained on around 5,000 texts. Moreover, we show that transfer learning works particularly well on imbalanced data. We conclude by discussing limitations of transfer learning and by outlining new opportunities for political science research.}
+      \field{issn}{1047-1987, 1476-4989}
+      \field{journaltitle}{Political Analysis}
+      \field{langid}{english}
+      \field{month}{1}
+      \field{number}{1}
+      \field{shortjournal}{Polit. Anal.}
+      \field{shorttitle}{Less {{Annotating}}, {{More Classifying}}}
+      \field{title}{Less {{Annotating}}, {{More Classifying}}: {{Addressing}} the {{Data Scarcity Issue}} of {{Supervised Machine Learning}} with {{Deep Transfer Learning}} and {{BERT-NLI}}}
+      \field{volume}{32}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \field{pages}{84\bibrangedash 100}
+      \range{pages}{17}
+      \verb{doi}
+      \verb 10.1017/pan.2023.20
+      \endverb
+      \verb{file}
+      \verb /Users/zacharystuck/Zotero/storage/2VSI7FAT/Laurer et al. - 2024 - Less Annotating, More Classifying Addressing the Data Scarcity Issue of Supervised Machine Learning.pdf
+      \endverb
+      \keyw{notion}
+    \endentry
+    \entry{lucas2015}{article}{}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=3995dda0933bb03d997dfe71bb50dea0}{%
+           family={Lucas},
+           familyi={L\bibinitperiod},
+           given={Christopher},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1475878b928af274b895482136430b10}{%
+           family={Nielsen},
+           familyi={N\bibinitperiod},
+           given={Richard\bibnamedelima A.},
+           giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ca08ae29f1298af10aa6e11f92b01aae}{%
+           family={Roberts},
+           familyi={R\bibinitperiod},
+           given={Margaret\bibnamedelima E.},
+           giveni={M\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f1370510cfe223ff4c2c652b160014ba}{%
+           family={Stewart},
+           familyi={S\bibinitperiod},
+           given={Brandon\bibnamedelima M.},
+           giveni={B\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=26be0ac5856b0deff25169b1bae4947c}{%
+           family={Storer},
+           familyi={S\bibinitperiod},
+           given={Alex},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0e9a50476b4db979d3b603e83a05e919}{%
+           family={Tingley},
+           familyi={T\bibinitperiod},
+           given={Dustin},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{45fafb44ed555b359ac8fbe6feda2465}
+      \strng{fullhash}{5e0eb8fd952011a6810062bb90a3dab3}
+      \strng{fullhashraw}{5e0eb8fd952011a6810062bb90a3dab3}
+      \strng{bibnamehash}{5e0eb8fd952011a6810062bb90a3dab3}
+      \strng{authorbibnamehash}{5e0eb8fd952011a6810062bb90a3dab3}
+      \strng{authornamehash}{45fafb44ed555b359ac8fbe6feda2465}
+      \strng{authorfullhash}{5e0eb8fd952011a6810062bb90a3dab3}
+      \strng{authorfullhashraw}{5e0eb8fd952011a6810062bb90a3dab3}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Recent advances in research tools for the systematic analysis of textual data are enabling exciting new research throughout the social sciences. For comparative politics, scholars who are often interested in non-English and possibly multilingual textual datasets, these advances may be difficult to access. This article discusses practical issues that arise in the processing, management, translation, and analysis of textual data with a particular focus on how procedures differ across languages. These procedures are combined in two applied examples of automated text analysis using the recently introduced Structural Topic Model. We also show how the model can be used to analyze data that have been translated into a single language via machine translation tools. All the methods we describe here are implemented in open-source software packages available from the authors.}
+      \field{issn}{1047-1987, 1476-4989}
+      \field{journaltitle}{Political Analysis}
+      \field{langid}{english}
+      \field{number}{2}
+      \field{shortjournal}{Polit. anal.}
+      \field{title}{Computer-{{Assisted Text Analysis}} for {{Comparative Politics}}}
+      \field{volume}{23}
+      \field{year}{2015}
+      \field{dateera}{ce}
+      \field{pages}{254\bibrangedash 277}
+      \range{pages}{24}
+      \verb{doi}
+      \verb 10.1093/pan/mpu019
+      \endverb
+      \verb{file}
+      \verb /Users/zacharystuck/Zotero/storage/UXDVLP8V/Lucas et al. - 2015 - Computer-Assisted Text Analysis for Comparative Politics.pdf
+      \endverb
+      \keyw{notion}
     \endentry
     \entry{mann2023}{article}{}{}
       \name{author}{5}{}{%
@@ -1209,6 +1920,47 @@
       \endverb
       \verb{file}
       \verb /Users/zacharystuck/Zotero/storage/HZUFUE2E/Steele and Homolar-2019-Ontological insecurities and the politics of contemporary populism.pdf
+      \endverb
+    \endentry
+    \entry{vandijk1993a}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=64d58f8969886541c304396463525920}{%
+           family={Van\bibnamedelima Dijk},
+           familyi={V\bibinitperiod\bibinitdelim D\bibinitperiod},
+           given={Teun\bibnamedelima A.},
+           giveni={T\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{64d58f8969886541c304396463525920}
+      \strng{fullhash}{64d58f8969886541c304396463525920}
+      \strng{fullhashraw}{64d58f8969886541c304396463525920}
+      \strng{bibnamehash}{64d58f8969886541c304396463525920}
+      \strng{authorbibnamehash}{64d58f8969886541c304396463525920}
+      \strng{authornamehash}{64d58f8969886541c304396463525920}
+      \strng{authorfullhash}{64d58f8969886541c304396463525920}
+      \strng{authorfullhashraw}{64d58f8969886541c304396463525920}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This paper discusses some principles of critical discourse analysis, such as the explicit sociopolitical stance of discourse analysts, and a focus on dominance relations by elite groups and institutions as they are being enacted, legitimated or otherwise reproduced by text and talk. One of the crucial elements of this analysis of the relations between power and discourse is the patterns of access to (public) discourse for different social groups. Theoretically it is shown that in order to be able to relate power and discourse in an explicit way, we need the `cognitive interface' of models, knowledge, attitudes and ideologies and other social representations of the social mind, which also relate the individual and the social, and the micro- and the macro-levels of social structure. Finally, the argument is illustrated with an analysis of parliamentary debates about ethnic affairs.}
+      \field{issn}{0957-9265, 1460-3624}
+      \field{journaltitle}{Discourse \& Society}
+      \field{langid}{english}
+      \field{month}{4}
+      \field{number}{2}
+      \field{shortjournal}{Discourse \& Society}
+      \field{title}{Principles of {{Critical Discourse Analysis}}}
+      \field{volume}{4}
+      \field{year}{1993}
+      \field{dateera}{ce}
+      \field{pages}{249\bibrangedash 283}
+      \range{pages}{35}
+      \verb{doi}
+      \verb 10.1177/0957926593004002006
       \endverb
     \endentry
     \entry{waseem-hovy-2016-hateful}{inbook}{}{}

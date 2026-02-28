@@ -61,6 +61,10 @@
 
 \addbibresource{bibliography.bib}
 
+\defbibheading{bibliography}[\refname]{%
+  \section*{#1\markboth{#1}{#1}}
+  \Large
+}
 
 \begin{document}
 \begin{center}
@@ -81,9 +85,9 @@ The aim of this project is addressing this gap in the literature by analyzing on
 The existing literature has provided a grounded understanding in the application of ontological security on populist and extremist movements, but it has largely excluded mention of online communities. This project aims to address this gap through the following questions:
 
 \begin{description}
-    \item $RQ_1$: How do identities form among and between various online communities
-    \item $RQ_2$: What routines are formed and regularized within online communities
-    \item $RQ_3$: How do the narratives present in online communites reflect upon the broader rise in extremist rhetoric
+    \item $RQ_1$: How do identities form among and between various online communities?
+    \item $RQ_2$: What routines are formed and regularized within online communities?
+    \item $RQ_3$: How do the narratives present in online communites reflect upon the broader rise in extremist rhetoric?
 \end{description}
 
 \subsection*{RQ\textsubscript{1}:}
@@ -92,7 +96,7 @@ Identity is a large factor in all ideologies, but particularly in extremist ideo
 
 \subsection*{RQ\textsubscript{2}:}
 
-Routinization is crucial to ontological security, as it reduces uncertainty and creates a trust in an actor's environment \Parencite[p. 346]{mitzenOntologicalSecurityWorld2006}. Understanding the routines formed in online communities allows for further understanding of other discoursive elements present in online extremist rhetoric.
+Routinization is crucial to ontological security, as it reduces uncertainty and creates a trust in an actor's environment \Parencite{mitzenOntologicalSecurityWorld2006}. Understanding the routines formed in online communities allows for further understanding of other discoursive elements present in online extremist rhetoric.
 
 \subsection*{RQ\textsubscript{3}:}
 
@@ -100,11 +104,11 @@ Narratives across extremist discourse often share similarities, but understandin
 
 \section*{\large{Data Collection}}
 
-Data will be collected from a variety of online communities, such as 4Chan's `/pol/', Reddit's `r/Anarchism/' and `r/MensRights', and X using various methods depending on the source. The primary form of collection will utilize Application Programming Interfaces (APIs) when available. 4Chan maintains a full open source AIP and Reddit's API is open source for research, but other APIs such as X's API have fees according to use. Preliminary collection of 4Chan data has already yielded over 53,000 comments across 8,000 threads spanning from 07/02/2026 - 
+Data will be collected from a variety of online communities, such as 4Chan's `/pol/', Reddit's `r/Anarchism/' and `r/MensRights', and X using various methods depending on the source. The primary form of collection will utilize Application Programming Interfaces (APIs) when available. 4Chan maintains a full open source AIP and Reddit's API is open source for research, but other APIs such as X's API have fees according to use. Preliminary collection of 4Chan data has already yielded over 570,000 comments across 11,000 threads spanning from February 7, 2026 to February 28, 2026. Due to the frequent deletion of comments and threads on forums like 4Chan, data collected is stored locally for later analysis. All data collected is open access, free of personal information, and only used for the purposes of academic research.
 
 \section*{\large{Data Analysis}}
 
-
+Data analysis on such large datasets provides complications for tradition methods reliant on purely manual analysis of data. For this reason, a mixed methods approach utilizing qualitative discourse analysis (QDA), inductive thematic analysis and machine assisted content and thematic analysis. QDA provides a strong methodological framework for understanding the connections between complex factors such as identity, routinization, narratives, and environmental factors \Parencite{vandijk1993a}. Inductive thematic analysis allows for the analysis of themes drawn directly from the corpus or dataset in order to understand common topics, rhetorics, and narratives \Parencite{boyatzis1998}. The most recent development of these methods is the application of machine learning for content and thematic analysis, which changed the ways that online communities can be studied. Utilizing machine learning models, such as BERT based models allows for qualitative analyis on a significanly larger scale than is possible with purely manual analysis \Parencites{laurer2024}{lucas2015}. This project will use a combination of pre-trained models, such as \textit{RoBERTa Base Hate Multiclass model} \Parencite{antypas2023}, \textit{BERTTopic} \Parencite{grootendorst2022bertopic}, and \textit{CardiffNLP-TweetNLP} \Parencite{camacho-collados-etal-2022-tweetnlp}, as well as models trained on the data gathered throughout the project. This technique has shown fruitful results in literature surround online communities, and allows for a robust analysis in an environment filled with millions of datapoints \Parencites{bermudez-villalva2025}{davidson2017}{frenda2019}.
 
 \newpage
 \printbibliography
