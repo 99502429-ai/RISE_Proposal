@@ -1,0 +1,10 @@
+# LaTeX Outputs #
+#################
+*.xmpi
+*.bbl
+*.gz
+*.aux
+*.out
+*.log
+*.bcf
+*.run.xml
